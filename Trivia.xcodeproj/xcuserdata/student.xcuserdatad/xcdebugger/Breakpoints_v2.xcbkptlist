@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8FDBB6E7-EC76-44A4-ACF9-E20E2F8B2F7A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EBBA03B-7AA3-4248-868F-2925380D0B3A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trivia/TriviaQuestionService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6EBBA03B-7AA3-4248-868F-2925380D0B3A - 5e388bc8c59e790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaQuestionService.deinit"
+                  moduleName = "Trivia.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Documents/ios101-project4-trivia-starter/Trivia/TriviaQuestionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6EBBA03B-7AA3-4248-868F-2925380D0B3A - 8b59bcfd0c8ab19d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaQuestionService.__deallocating_deinit"
+                  moduleName = "Trivia.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Documents/ios101-project4-trivia-starter/Trivia/TriviaQuestionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6EBBA03B-7AA3-4248-868F-2925380D0B3A - 45d11b83ae11c458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaQuestionService.__allocating_init() -&gt; Trivia.TriviaQuestionService"
+                  moduleName = "Trivia.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Documents/ios101-project4-trivia-starter/Trivia/TriviaQuestionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "6EBBA03B-7AA3-4248-868F-2925380D0B3A - 1c37d86a7bd9ca68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trivia.TriviaQuestionService.init() -&gt; Trivia.TriviaQuestionService"
+                  moduleName = "Trivia.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Documents/ios101-project4-trivia-starter/Trivia/TriviaQuestionService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
